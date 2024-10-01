@@ -26,3 +26,7 @@ Arquitectura Multicapas
 
 
 ![Static Badge](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
+</br>
+![sp](https://img.shields.io/badge/SPRING%20BOOT-white?style=for-the-badge&logo=springboot&logoColor=white&labelColor=%236DB33F)
+</br>
+![h](https://img.shields.io/badge/HIBERNATE-white?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=%23FF2E63)
