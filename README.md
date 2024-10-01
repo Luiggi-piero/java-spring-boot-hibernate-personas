@@ -5,7 +5,7 @@ Aplicación Backend para la administración de personas usando Spring Boot + JPA
 - [x] Crear persona
 - [x] Editar persona
 - [x] Obtener personas
-- [x] Actualizar persona
+- [x] Borrar persona
 
 ## Documentación de las solicitudes
 [Ver solicitudes](https://documenter.getpostman.com/view/13576757/2sAXxJiFQk)
