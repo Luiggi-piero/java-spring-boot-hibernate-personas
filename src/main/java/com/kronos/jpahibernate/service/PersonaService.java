@@ -21,6 +21,7 @@ public class PersonaService implements  IPersonaService {
 
     @Override
     public void savePersona(Persona perso) {
+//        No solo crea, tambien actualiza
         persoRepository.save(perso);
     }
 
@@ -48,5 +49,10 @@ public class PersonaService implements  IPersonaService {
 
 //        Guardo cambios
         this.savePersona(perso);
+    }
+
+    @Override
+    public void editPersona(Persona per) {
+        this.savePersona(per);
     }
 }

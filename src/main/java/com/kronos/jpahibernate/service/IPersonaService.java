@@ -15,4 +15,6 @@ public interface IPersonaService {
     public Persona findPersona(Long id);
 
     public void editPersona(Long idOriginal, Long idNueva, String nuevoNombre, String nuevoApellido, int nuevaEdad);
+
+    void editPersona(Persona per);
 }
