@@ -6,6 +6,7 @@ Aplicación Backend para la administración de personas usando Spring Boot + JPA
 - [x] Editar persona
 - [x] Obtener personas
 - [x] Borrar persona
+- [x] Asociar una persona con varias mascotas
 
 ## Documentación de las solicitudes
 [Ver solicitudes](https://documenter.getpostman.com/view/13576757/2sAXxJiFQk)
