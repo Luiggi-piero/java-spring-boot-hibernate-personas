@@ -10,6 +10,8 @@ Aplicación Backend para la administración de personas usando Spring Boot + JPA
 ## Documentación de las solicitudes
 [Ver solicitudes](https://documenter.getpostman.com/view/13576757/2sAXxJiFQk)
 
+[Ver solicitudes con Relaciones](https://documenter.getpostman.com/view/13576757/2sAXxMfYZ5)
+
 ## Herramientas
 * Java
 * Spring Boot
