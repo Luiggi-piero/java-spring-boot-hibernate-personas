@@ -16,5 +16,5 @@ public interface IPersonaService {
 
     public void editPersona(Long idOriginal, Long idNueva, String nuevoNombre, String nuevoApellido, int nuevaEdad);
 
-    void editPersona(Persona per);
+    public void editPersona(Persona per);
 }
